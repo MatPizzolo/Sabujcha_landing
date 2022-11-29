@@ -33,7 +33,7 @@
     <br />
     <br />
     <br />
-    <a target="_blank" href="https://matpizzolo.github.io">View Demo</a>
+    <a href="https://matpizzolo.github.io" target="_blank">View Demo</a>
   </p>
 </div>
 
