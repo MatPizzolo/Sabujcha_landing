@@ -127,9 +127,9 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Mateo Pizzolo - matpizzolo@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/MatPizzolo/sabujcha-landing](https://github.com/MatPizzolo/sabujcha-landing)
 
 
 
