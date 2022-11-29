@@ -33,7 +33,7 @@
     <br />
     <br />
     <br />
-    <a target="_BLANK" href="https://matpizzolo.github.io">View Demo</a>
+    <a target="_blank" href="https://matpizzolo.github.io">View Demo</a>
   </p>
 </div>
 
@@ -70,7 +70,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p> This is a project I made to ..</p>
+<!-- <p> This is a project I made to ..</p> -->
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -96,16 +96,15 @@
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Run app
+3. Run app
    ```sh
    npm run start
    ```
