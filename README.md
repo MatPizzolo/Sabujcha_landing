@@ -79,11 +79,11 @@
 
 ### Built With
 
- [![HTML][HTML]][HTML-url]
- [![Css][Css.com]][Css-url]
- [![J][Css.com]][Css-url]
- [![React][React.js]][React-url]
- [![Gatsby][Gatsby.com]][Gatsby-url]
+* [![HTML][HTML]][HTML-url]
+* [![Css][Css.com]][Css-url]
+* [![J][Css.com]][Css-url]
+* [![React][React.js]][React-url]
+* [![Gatsby][Gatsby.com]][Gatsby-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
