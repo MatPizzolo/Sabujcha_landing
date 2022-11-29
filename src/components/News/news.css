@@ -1,0 +1,48 @@
+.news-container {
+    text-align: center;
+}
+
+.news {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: left;
+}
+
+.new {
+    width: 370px;
+}
+
+.date span{
+    color: #519f10;
+    font-family: 'Lora', serif;
+    font-weight: 700;
+    font-style: italic;
+    border-bottom: 1px solid #519f10;
+}
+
+.descr {
+    color: #6d6a6a;
+    font-size: 17px;
+    line-height: 28px;
+    margin-bottom: 25px;
+    overflow-wrap: normal;
+}
+
+.read-more{
+    font-size: 12px;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    color: #484848;
+    font-weight: 600;
+}
+
+.product-texts {
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+.heading {
+    margin-top: 15px;
+}

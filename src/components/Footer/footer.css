@@ -1,0 +1,49 @@
+.footer-container {
+    background-color: #F8F8F8;
+    max-width: 100%;
+}
+
+.footer-links {
+    padding: 35px 150px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.footer-title {
+    font-family: "Playfair Display",serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #000;
+    margin: 20px auto;
+}
+
+.footer-p-links {
+    color: grey;
+    outline: medium none;
+}
+
+.botom-footer {
+    background-color: #EBEBEB;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.copyright {
+    padding-top: 10px;
+}
+
+.payments {
+    margin-top: 10px;
+}
+
+@media screen and (max-width:700px) {
+    .botom-footer {
+        flex-direction: column;
+        text-align: center;
+        height: 100%;
+    }
+}

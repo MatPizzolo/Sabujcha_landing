@@ -1,0 +1,56 @@
+.banners {
+    background-color: white;
+    width: 100%;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.banner {
+    width: 100%;
+    margin: 0 10px;
+    left: 35px;
+    
+}
+.banner-img {
+    width: 100%;
+}
+
+.banner-texts {
+    text-align: left;
+    transform: translateY(-175%);
+    margin-left: 15px;
+}
+
+.banner-texts h2 {
+    font-family: 'Lora', serif;
+    font-size: 38px;
+    color: #519f10;
+    font-weight: 400;
+    margin: 0 0 10px;
+    text-transform: capitalize;
+}
+
+.banner-texts h3 {
+    color: #484848;
+    font-family: "Montserrat",sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+@media screen and (max-width: 750px) {
+    .banner-texts {
+        transform: translateY(-105%);
+    }
+}
+
+@media screen and (max-width: 605px) {
+    .banner-texts h2{
+        font-size: 20px;
+    }
+
+    .banner-texts h3{
+        font-size: 10px;
+    }
+}
