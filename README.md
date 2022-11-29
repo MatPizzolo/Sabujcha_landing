@@ -146,4 +146,4 @@ Project Link: [https://github.com/MatPizzolo/sabujcha-landing](https://github.co
 [css.com]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [Css-url]: https://reactjs.org/
 [HTML]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-[HTML]: https://reactjs.org/
+[HTML-url]: https://reactjs.org/
