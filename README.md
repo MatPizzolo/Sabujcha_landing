@@ -33,7 +33,7 @@
     <br />
     <br />
     <br />
-    <a href="https://google.com" target="_blank">View Demo</a>
+    <a href="https://sabujcha-landing-ecom-mp.netlify.app" target="_blank">View Demo</a>
   </p>
 </div>
 
