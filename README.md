@@ -121,7 +121,7 @@
 
 Mateo Pizzolo - matpizzolo@gmail.com
 
-Project Link: [https://github.com/MatPizzolo/sabujcha-landing](https://github.com/MatPizzolo/sabujcha-landing)
+Project Link: [https://github.com/MatPizzolo/sabujcha_landing](https://github.com/MatPizzolo/sabujcha_landing)
 
 
 
