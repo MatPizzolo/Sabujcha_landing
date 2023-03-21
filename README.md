@@ -70,6 +70,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+### Built With
+
+* [![HTML][HTML]][HTML-url]
+ [![Css][Css.com]][Css-url]
+* [![JS][Js]][Js-url]
+ [![React][React.js]][React-url]
+ [![Gatsby][Gatsby.com]][Gatsby-url]
+
 <!-- <p> This is a project I made to ..</p> -->
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
@@ -79,13 +87,7 @@
 
 
 
-### Built With
 
-* [![HTML][HTML]][HTML-url]
-* [![Css][Css.com]][Css-url]
-* [![JS][Js]][Js-url]
-* [![React][React.js]][React-url]
-* [![Gatsby][Gatsby.com]][Gatsby-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
